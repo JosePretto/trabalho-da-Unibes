@@ -1,0 +1,49 @@
+p{
+    color: rgb(23, 0, 46);
+    font: 1rem impact;
+}
+legend{
+    color: rgba(136, 17, 130, 0.712);
+    font: 1.2rem impact;
+    font-weight: bold;
+}
+fieldset{
+    width: 800px;
+    border: 1px solid blanchedalmond;
+    margin: 20px;
+}
+form{
+    width: 800px;
+    margin:auto 20rem auto 21rem;
+}
+form #sexo{
+    width: 250px;
+    font: 1.3vw impact;
+}
+input.btn{
+    background-color: black;
+    color: antiquewhite;
+    padding: 7px;
+    margin: 5px;
+    font: 1.3vw impact;
+    border: none;
+    border-radius: 10%;
+}
+input.btn:hover{
+    background-color: rgb(7, 79, 94);
+    color: black;
+     transform: scale(1.2);
+    
+}
+fieldset#usuario{
+    background: url("imagens/curriculoh.png") no-repeat 95% 95%;
+    background-size: 100px;
+}
+fieldset#Endereco{
+    background: url("imagens/enderecoh.png") no-repeat 95% 95%;
+    background-size: 100px;
+}
+fieldset#mensagem{
+    background: url("imagens/contatoh.png") no-repeat 95% 95%;
+    background-size: 100px;
+}
